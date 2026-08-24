@@ -1,0 +1,61 @@
+{
+  "locale_name": "English (USA)",
+  "adjectives": [
+    "The Dark", "Silent", "Cyber", "Eternal", "Lost", "Shadow", "Crimson", "Infinite",
+    "Secret", "Reckoning", "Apex", "Forgotten", "Quantum", "Phantom", "Savage", "Neon"
+  ],
+  "nouns": [
+    "Protocol", "Horizon", "Sentinel", "Legacy", "Kingdom", "Odyssey", "Matrix", "Vanguard",
+    "Echo", "Empire", "Dynasty", "Chronicle", "Labyrinth", "Ascent", "Paradox", "Frontier"
+  ],
+  "suffixes": [
+    "Awakening", "Rising", "Reborn", "Part I", "The Beginning", "Ragnarok", "Final Chapter", "Unbound"
+  ],
+  "genres": [
+    "Action / Sci-Fi", "Drama / Mystery", "Thriller / Horror", "Comedy / Romance",
+    "Adventure / Fantasy", "Crime / Film-Noir", "Docudrama / History", "Family / Animation"
+  ],
+  "first_names": [
+    "John", "Arthur", "Christian", "Harrison", "Daniel", "Marcus", "Ethan", "Lucas",
+    "Nina", "Lola", "Alex", "Ray", "Jack", "Elison", "Lake", "Monique", "Jim"
+  ],
+  "last_names": [
+    "Smith", "Bale", "Ford", "Craig", "Vance", "Reynolds", "Miller", "Stone",
+    "Jones-Ackels", "Manzarek", "Morrison", "Sizee", "Joel", "Antonina", "Clark", "Jarmush"
+  ],
+  "companies": [
+    "Hyatt Inc", "Lang - Hahn", "Borer - Becker", "Aperiam LLC", "Code, Inc.", "Vanguard Studios", "Apex Motion"
+  ],
+  "directors": [
+    "Lee Jarmush", "Christopher Nolan", "Denis Villeneuve", "Greta Gerwig", "David Fincher", "Quentin Tarantino"
+  ],
+  "synopses": [
+    "After years apart, a mother and daughter are forced to reunite when tragedy strikes their family. Old secrets resurface, tearing them apart just when they need each other most. Now, they must find the courage to forgive before it's too late.",
+    "A rogue operative uncovers a global surveillance conspiracy embedded deep within quantum network protocols. Pursued by shadow mercenaries, survival depends on an unexpected ally.",
+    "Set in a futuristic metropolis, a weary detective races against time to track down a stolen synthetic memory core before it ignites an interplanetary conflict.",
+    "An eccentric comedy team stumbles into a high-stakes art heist while attempting to film an independent documentary in the heart of Europe."
+  ],
+  "review_comments": [
+    "We need to navigate the redundant ASCII alarm!",
+    "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals.",
+    "None of it makes any sense to me. Not good.",
+    "An absolute cinematic masterpiece! Mind-blowing visual sequence and incredible acting.",
+    "Thrilling from start to finish. The trailer barely does justice to how epic this movie is.",
+    "Great soundtrack and stunning pacing. Definitely candidate for movie of the year.",
+    "A fresh take on the genre! Kept me on the edge of my seat throughout."
+  ],
+  "taglines": [
+    "THIS FALL", "EXPERIENCE THE JOURNEY", "A CINEMATIC EVENT", "IN THEATERS SOON", "TRUST NO ONE"
+  ],
+  "sample_videos": [
+    "https://vjs.zencdn.net/v/oceans.mp4",
+    "https://media.w3.org/2010/05/sintel/trailer.mp4",
+    "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  ],
+  "sample_posters": [
+    "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&auto=format&fit=crop&q=80"
+  ]
+}

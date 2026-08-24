@@ -1,0 +1,60 @@
+{
+  "locale_name": "German (Germany)",
+  "adjectives": [
+    "Der Letzte", "Dunkle", "Ewige", "Verlorene", "Stille", "Geheimnisvolle", "Wilde", "Neue",
+    "Schattenhafte", "Eiserne", "Goldene", "Magische", "Unendliche", "Verborgene"
+  ],
+  "nouns": [
+    "Wächter", "Schatten", "Horizont", "Krieger", "Traum", "Code", "Spiegel", "Zukunft",
+    "Sturm", "Drache", "Palast", "Pfad", "Mythos", "Schlüssel"
+  ],
+  "suffixes": [
+    "des Schicksals", "von Berlin", "der Nacht", "Teil 1", "Die Rache", "Das Erbe", "Die Entscheidung"
+  ],
+  "genres": [
+    "Action / Sci-Fi", "Drama / Krimi", "Thriller / Horror", "Komödie / Romantik",
+    "Abenteuer / Fantasy", "Kriminalfilm / Noir", "Historie / Doku"
+  ],
+  "first_names": [
+    "Hans", "Maximilian", "Till", "Lukas", "Moritz", "Felix", "Niklas", "Sebastian",
+    "Greta", "Hannah", "Emma", "Sofia", "Lena", "Mia", "Jonas"
+  ],
+  "last_names": [
+    "Müller", "Schweiger", "Bauer", "Wagner", "Fischer", "Schneider", "Weber", "Becker",
+    "Hoffmann", "Schäfer", "Koch", "Richter", "Klein", "Wolf"
+  ],
+  "companies": [
+    "Bavaria Film GmbH", "UFA Fiction", "Studio Babelsberg", "ZDF Enterprises", "Nordmedia"
+  ],
+  "directors": [
+    "Fritz Lang", "Tom Tykwer", "Werner Herzog", "Roland Emmerich", "Maren Ade"
+  ],
+  "synopses": [
+    "Nach Jahren der Trennung müssen sich eine Mutter und ihre Tochter nach einer Tragödie wieder zusammenfinden. Alte Geheimnisse kommen ans Licht.",
+    "Ein ehemaliger Agent entdeckt eine hochgefährliche Verschwörung im Herzen der europäischen Digitalinfrastruktur.",
+    "In einer futuristischen Metropole jagt ein Ermittler einen entwendeten Speicherchip voller verbotener Erinnerungen.",
+    "Eine humorvolle Geschichte über zwei ungleiche Freunde, die unverhofft in einen internationalen Kunstraub verwickelt werden."
+  ],
+  "review_comments": [
+    "Ein absolutes Meisterwerk des Kinos! Spektakuläre visuelle Sequenzen.",
+    "Spannend von Anfang bis Ende. Sehr empfehlenswert!",
+    "Großartiger Soundtrack und fantastische Schauspieler.",
+    "Ein frischer Wind für dieses Genre. Absolut sehenswert!",
+    "Hervorragende Regiearbeit und tiefgründige Dialoge.",
+    "Bester Film des Jahres! Muss man gesehen haben."
+  ],
+  "taglines": [
+    "DIESEN HERBST", "EIN KINOHIGHLIGHT", "IN ALLEN KINOS", "DAS EREIGNIS DES JAHRES"
+  ],
+  "sample_videos": [
+    "https://vjs.zencdn.net/v/oceans.mp4",
+    "https://media.w3.org/2010/05/sintel/trailer.mp4",
+    "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  ],
+  "sample_posters": [
+    "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&auto=format&fit=crop&q=80"
+  ]
+}
