@@ -77,7 +77,7 @@ class MovieGeneratorService
         $synopsis = $this->pickRandom($localeData['synopses'], $rng(8, 0, 100));
         $company = $this->pickRandom($localeData['companies'], $rng(9, 0, 100));
 
-        $trailerSpec = $this->buildTrailerSpec($title, $localeData, $coreHash, $rng);
+        $trailerSpec = $this->buildTrailerSpec($title, $localeData, $rng);
 
         $likesCount = $this->calculateProbabilisticCount($avgLikes, $rngFloat('likes_prob'));
         $likesUsers = $this->generateLikesUsers($localeData, $userSeed, $seqIndex, $likesCount);
@@ -221,15 +221,18 @@ class MovieGeneratorService
         return $reviews;
     }
 
-    private function buildTrailerSpec(string $title, array $localeData, string $hash, callable $rng): array
+    private function buildTrailerSpec(string $title, array $localeData, callable $rng): array
     {
         $videos = $localeData['sample_videos'] ?? [];
         $posters = $localeData['sample_posters'] ?? [];
+        $duration = $rng(12, 5, 8);
+        $rawUrl = count($videos) > 0 ? $videos[$rng(10, 0, count($videos) - 1)] : '';
 
         return [
             'title' => $title,
-            'video_url' => count($videos) > 0 ? $videos[$rng(10, 0, count($videos) - 1)] : '',
+            'video_url' => $rawUrl ? $rawUrl . '#t=0,' . $duration : '',
             'poster_url' => count($posters) > 0 ? $posters[$rng(11, 0, count($posters) - 1)] : '',
+            'duration' => $duration,
         ];
     }
 }
